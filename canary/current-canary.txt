@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Status: All good
+Period: March, 2017
+
+During this period, First Look Media, Inc. has received:
+
+Zero National Security Letters
+Zero Foreign Intelligence Surveillance Court orders
+Zero gag orders that prevent us from from stating that we have received legal process seeking our customers' information
+
+We are switching from publishing this warrant canary statement every month to every quarter. We will publish our next statement at the beginning of July, and it will cover the period of the second quarter of 2017, which is April, May, and June.
+
+Will Fitzpatrick
+Acting General Counsel
+First Look Media, Inc.
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAEBCAAGBQJY4tEaAAoJEPq3N/nFwcqA4VoQAMT+q8dW1omm9NZKWXkmFVyl
+MxX/7cIx0Ef+4ewfZhMEENv64HW9HlCVcK5+0IQNspS04P7/H0l8fLZblK5UU6lQ
+VRfZJIh55z41vhZ/bXfK3fFGBYKhyPHlGKX/eljhVHdraBzqEU5OD/pD4ZU+FyAK
+j11dlJN8d5Tj+z6nD2+OxHxYpUilYnWXVgPK/WSnguxpozpYa2cgoa4Gd2XibNfB
+WEs4ZdgzWEwFDK5DZq0Dx4Oj0whBpDaJ1JsZZPni4779ELY1KPkvB1LnT7rxFLry
+f5iOdX4wdZL525WWjEWFFjJvJC5vWMIT3WMjy6K5ppfBjtbKQDTjKsCVraDcX7iM
+DwJ7tuyL23AbQKu5rspu6ih5jg4Bu7Tokr4I+DdGkR0DhRMPSs5d7+qs826XtSzB
+rAt+rmYhYOI/P6bTrutu1b0pi/2aZ57PdpHiLcaY0NRX6WIzPCDatmPovZTN5wet
+AEEcYxXh3jUrA+qxWZBjBoC15RrQ0y3Fp9anmXCNcFUMVdFknrJRtZELtNHg3VwF
+ddYxrK88v+HWuyrfGEMu0Jwm4I/Y7I1TqlR/0LswCoPoKfOv04PkgUUI8gdlrrQz
+X5r8sYptOaoai6i+iha4ucFM5UPQqNh1dHXX4xm7l3GkdN8u6ln6oF3MX9r++b+O
+UNXEOOeFyOXL817tHrE3
+=Gt7l
+-----END PGP SIGNATURE-----
